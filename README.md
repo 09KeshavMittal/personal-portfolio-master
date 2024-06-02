@@ -2,9 +2,8 @@
 Checkout👉 https://09keshavmittal.github.io/client-personal-portfolio-master/
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![Github HTML]
-![Github CSS]
-![Github JavaScript]
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
 
