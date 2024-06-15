@@ -1,5 +1,5 @@
 # vCard - Personal portfolio
-Checkout👉 https://09keshavmittal.github.io/client-personal-portfolio-master/
+Checkout👉 https://09keshavmittal.github.io/personal-portfolio-master/
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
 
